@@ -18,7 +18,7 @@ export default function Intro() {
 				<img
 					className="first"
 					src="/src/assets/bebe350.webp"
-					alt="bebe"
+					alt="bebe chick"
 					layout="responsive"
 					sizes="(min-width: 325px) 70vw, (max-width: 1024px) 50vw, 625px"
 				/>
